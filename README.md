@@ -1,6 +1,8 @@
 # Visit it on the web!
 Preview:
+
 ![image](https://github.com/gwashark/shark.dev/assets/150717581/39126568-dd89-48a9-a10b-69907e9f5a62)
+
 About:
 It's a portfolio about me!
 
