@@ -1,0 +1,53 @@
+main {
+    border-color: #A7E6FF;
+    border-radius: 10px;
+    border-style:solid;
+    border-width: 5px;
+    align-items: center;
+    background-color: #3ABEF9;
+    padding: 10px;
+}
+
+row {
+    direction: row;
+    gap: 7px;
+}
+
+column {
+    direction: column;
+    gap: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+widget {
+    background-color: #3572EF;
+    border-radius: 10px;
+    padding: 6px;
+    direction: column;
+    gap: 4px;
+}
+
+discord-widget {
+    background-color: #5865F2;
+    border-radius: 10px;
+    padding: 6px;
+    direction: column;
+    gap: 4px;
+}
+
+roblox-widget {
+    background-color: red;
+    border-radius: 10px;
+    padding: 6px;
+    direction: column;
+    gap: 4px;
+}
+
+project-widget {
+    background-color: rgb(54, 54, 54);
+    border-radius: 10px;
+    padding: 6px;
+    direction: column;
+    gap: 4px;
+}
